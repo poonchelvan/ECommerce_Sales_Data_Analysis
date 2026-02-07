@@ -1,3 +1,8 @@
+Analyzing Simulated E-commerce Sales Data
+
+This project generates synthetic e-commerce sales data, performs validation, computes statistics, and creates visualizations.
+
+
 Tasks for this project:
 
 1. Generate or load a synthetic dataset containing at least 365 daily entries, including columns for Date, Product Category (at least 3 types), Units Sold, Revenue, and Customer Rating (1-5). Use libraries like NumPy or Pandas for generation if creating synthetic data.
